@@ -1,1 +1,4 @@
-# rocketseat_desafio_01
+Stage 02 - Introdução ao HTML e CSS
+
+
+Corrigindo bugs (01)
